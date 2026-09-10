@@ -1,0 +1,15 @@
+{
+  "name": "genpark-avellaneda-stoikov-market-maker-skill",
+  "version": "1.0.0",
+  "description": "Avellaneda-Stoikov high-frequency market-making model computing optimal inventory-risk adjusted reservation prices and spread quotes.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "avellaneda-stoikov",
+    "market-making",
+    "inventory-risk",
+    "optimal-control"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
